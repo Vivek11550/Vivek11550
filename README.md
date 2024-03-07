@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm vivek yaduvanshi</h1>
-<h3 align="center">A passionate Spring Boot developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
 
 <img  align="right" width="450"  alt="coding" src="https://github.com/shivakumar139/shivakumar139/assets/52816688/c72d77a2-ce80-4153-bdfe-3f4c5f473555" alt="Image Description">
 
-“Passionate Spring Boot Developer with a strong foundation in Java, Hibernate, and a keen interest in Node.js. 🚀
 
-👨‍💻 With a deep love for coding and problem-solving, I thrive on developing robust, scalable, and high-performance applications using Spring Boot. I believe in the power of clean code and am committed to writing maintainable and efficient software.
-
-💡 My journey in software development has been marked by continuous learning and growth. I enjoy staying up-to-date with the latest industry trends and technologies, ensuring that I can deliver innovative solutions to complex challenges.
-
-🌐 In addition to my Spring Boot expertise, I’m excited about exploring the possibilities of Node.js to create real-time and server-side applications. The versatility of Node.js has opened up new horizons, and I’m eager to contribute to its ever-expanding ecosystem.
 
 🤝 Let’s connect to discuss all things tech, share insights, and explore potential collaborations. Whether you’re looking to collaborate on a project, share knowledge, or simply connect with fellow enthusiasts, I’m here to connect and learn from like-minded professionals.
 
 🌟 Open to new opportunities and challenges, I’m ready to contribute my skills and expertise to exciting projects. Feel free to reach out for networking, discussions, or project inquiries.
 
 
-- 🌱 I’m currently learning **Spring boot, Microservices**
+- 🌱 I’m currently learning ** react , dockers**
 
-- 💬 Ask me about **Spring boot, Node js**
+- 💬 Ask me about **MERN, Node js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
