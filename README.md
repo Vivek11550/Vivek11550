@@ -41,7 +41,7 @@
   <a href="[your-hackerrank-link]" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
-  <a href="[https://leetcode.com/u/Vivek11550/]" target="_blank">
+  <a href="https://leetcode.com/u/Vivek11550/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   <a href="[your-geeksforgeeks-link]" target="_blank">
